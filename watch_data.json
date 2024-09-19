@@ -1,0 +1,60 @@
+{
+	"watches": [
+		{
+			"name": "Tudor Black Bay POI",
+			"resource": "tudor_black",
+			"price": 3.950,
+			"diameter": 42,
+			"water_resist": 200
+		},
+		{
+			"name": "Itay Noy Reorder",
+			"resource": "itay_noy",
+			"price": 6.800,
+			"diameter": 44,
+			"water_resist": 50
+		},
+		{
+			"name": "Monta Atlas GMT",
+			"resource": "monta_atlas",
+			"price": 1.410,
+			"diameter": 38.5,
+			"water_resist": 150
+		},
+		{
+			"name": "Patek Philippe Weekly Calendar Ref. 5212A",
+			"resource": "patek_philippe",
+			"price": 29.500,
+			"diameter": 40,
+			"water_resist": 30
+		},
+		{
+			"name": "Rolex Datejust 36",
+			"resource": "rolex_datejust",
+			"price": 8.200,
+			"diameter": 36,
+			"water_resist": 100
+		},
+		{
+			"name": "Doxa SUB 200 LE",
+			"resource": "doxa_sub",
+			"price": 1.190,
+			"diameter": 42,
+			"water_resist": 200
+		},
+		{
+			"name": "Porsche_Design Globetimer UTC",
+			"resource": "porsche_design",
+			"price": 6.350,
+			"diameter": 42,
+			"water_resist": 100
+		},
+		{
+			"name": "Bell & Ross Bi-Compass",
+			"resource": "bell_ross",
+			"price": 3.900,
+			"diameter": 42,
+			"water_resist": 100
+		}
+	]
+}
